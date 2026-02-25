@@ -29,18 +29,18 @@ http://localhost:5173
 ```
 Click action button to select request type (GET, POST, PUT, DELETE)
 
-1) to get all post
+1) To get all post
 Get Posts
 
 2) Get single post
 type id + Get Posts
 
-3) create new post
+3) Create new post
 type title + Create Post
 
 4) Edit post
 type id that want to edit + title + Update Post
 
-5) delete post
+5) Delete post
 type id that want to delete + Delete Post  
 ```
