@@ -25,3 +25,17 @@ npm run dev
 ```
 http://localhost:5173
 ```
+## CRUD guideline
+```
+Click action button to select request type (GET, POST, PUT, DELETE)
+1) to get all post
+Get Posts
+2) Get single post
+type id + Get Posts
+3) create new post
+type title + Create Post
+4) Edit post
+type id that want to edit + title + Update Post
+5) delete post
+type id that want to delete + Delete Post  
+```
