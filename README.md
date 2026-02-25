@@ -25,7 +25,7 @@ npm run dev
 ```
 http://localhost:5173
 ```
-## CRUD guideline
+## How to use
 ```
 Click action button to select request type (GET, POST, PUT, DELETE)
 
