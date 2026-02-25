@@ -1,6 +1,9 @@
 # Express Crash Project
 
-## Setup
+## Clone project
+```
+git clone
+```
 
 ### Backend
 ```bash
