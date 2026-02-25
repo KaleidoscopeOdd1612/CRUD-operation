@@ -3,11 +3,11 @@
 ## Setup
 
 ### Backend
-cd server
+`cd server
 npm install
-node server.js
+node server.js`
 
 ### Frontend
-cd client
+`cd client
 npm install
-npm run dev
+npm run dev`
