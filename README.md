@@ -1,9 +1,11 @@
 # Express Crash Project
 
 ## Clone project
+```bash
+git clone https://github.com/KaleidoscopeOdd1612/CRUD-operation.git
 ```
-git clone
-```
+
+## Run frontend and backend
 
 ### Backend
 ```bash
@@ -17,4 +19,9 @@ node server.js
 cd client
 npm install
 npm run dev
+```
+
+### Open in browser
+```
+http://localhost:5173
 ```
